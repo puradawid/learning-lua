@@ -7,6 +7,8 @@ a great language).
 
 ## Structure
 
-This contains
+The repository contains:
 
 1. Hello world lesson
+2. Basic data structure - array/map
+3. Modules - how to declare one and use
