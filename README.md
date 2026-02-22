@@ -12,3 +12,4 @@ The repository contains:
 1. Hello world lesson
 2. Basic data structure - array/map
 3. Modules - how to declare one and use
+4. Simple algorithm - sorting - for proving the effectiveness
